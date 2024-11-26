@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ines</h1>
 <h3 align="center">A passionate Software Engineering Student </h3>
 
-- 🌱 I’m currently learning **HTML,CSS,React**
+
 
 
 
